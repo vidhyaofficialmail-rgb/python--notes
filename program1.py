@@ -6,3 +6,4 @@ if (a+b)% 2 == 0:
 else:
     print(" a+b = odd ")
 
+print(a*b)
